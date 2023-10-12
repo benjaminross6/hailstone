@@ -1,4 +1,4 @@
-class backwardscalculator{
+class backwards_calculator{
     public static int steps = 0;
     public static int transform(int a) {
         if(a == 1) {
